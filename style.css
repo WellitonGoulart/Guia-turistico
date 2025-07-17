@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #F5F4F0;
+}
+
+#page {
+  max-width: 1120px;
+  width: 100%;
+  padding: 0 16px;
+  margin: 88px auto;
+}
+
+img {
+   max-width: 100%;
+   border-radius: 24px;
+}
+
+#title p {
+   text-align: left;
+   font-size: 16px;
+   font-weight: bold;   
+   color: #E1624F;
+}
+
+header#title h1 {
+  font-size: 36px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin-bottom: 40px;
+}
+
+#description p {
+   margin-top: 24px;
+   margin-bottom: 40px;   
+}
+
+#destiny h2{
+   font-size: 32px;
+   font-weight: bold;
+   margin-top: 64px;
+   color: #E1624F;
+}
